@@ -1,41 +1,73 @@
-Power BI - Informatorio - Laboratorio Final
-Laboratorio final de la especialización en Data Analytics del Informatorio del Chaco
+📊 Austral Retail Group
+Dashboard de Ventas – Power BI (2013–2017)
 
-Austral Retail Group – Dashboard Power BI (2013–2017)
+Proyecto desarrollado para el Informatorio – Provincia del Chaco, como Laboratorio Final de Power BI, enfocado en análisis de ventas, modelado de datos y storytelling en una sola página.
 
-Proyecto realizado para el Informatorio (Chaco) como entrega del Laboratorio/Proyecto Final de Power BI, con foco en modelado de datos, 
-medidas DAX y un dashboard de una sola página con narrativa (storytelling).
+🧩 ¿De qué trata el proyecto?
 
-Contenido del repositorio
+Este dashboard permite analizar el rendimiento comercial de Austral Retail Group entre 2013 y 2017, respondiendo preguntas clave del negocio:
 
-  Archivo Power BI: .pbix con el dashboard final
+¿Cuánto vendemos?
 
-  Informe: PDF con resumen de ETL y modelo de datos
+¿Cómo evolucionan las ventas en el tiempo?
 
-Cómo abrir el proyecto
+¿Qué categorías y ciudades concentran mayor volumen?
 
-  Descargar este repositorio (Code → Download ZIP) o clonarlo con Git.
+El informe fue diseñado para facilitar la toma de decisiones, combinando KPIs claros, visualizaciones interactivas y una conclusión ejecutiva.
 
-  Abrir el archivo .pbix con Power BI Desktop.
+🛠️ Tecnologías utilizadas
 
-  Si Power BI solicita actualizar, usar Actualizar para recargar datos.
+Power BI Desktop
 
-Qué muestra el dashboard
+Power Query (ETL)
 
-  KPIs principales: Total Ventas, Total Unidades, Ticket Promedio
+DAX (medidas y KPIs)
 
-  Evolución temporal de ventas (tendencia por mes)
+Git + GitHub (versionado)
 
-  Distribución por categoría de producto
+📁 Contenido del repositorio
+Archivo	Descripción
+.pbix	Dashboard final interactivo en Power BI
+.pdf	Informe breve del proceso ETL y modelo de datos
+▶️ Cómo abrir el proyecto
 
-  Mapa geográfico con ventas por ciudad
+Descargar o clonar este repositorio
 
-  Segmentadores por Año y Mes (panel desplegable con bookmarks)
+Abrir el archivo .pbix con Power BI Desktop
 
-  Botón de Reset para volver al estado inicial
+Actualizar los datos si Power BI lo solicita
 
-Conclusiones (resumen)
+📈 ¿Qué incluye el dashboard?
+KPIs principales
 
-Entre 2013 y 2017, Austral Retail Group presenta una evolución general positiva en ventas, con picos en distintos períodos. 
-La categoría Office Supplies concentra la mayor parte de los ingresos, mientras que Technology aparece como una oportunidad clara de crecimiento. 
-Se recomienda reforzar la estrategia en las ciudades con mayor volumen de ventas y potenciar categorías con menor participación.
+💰 Total Ventas
+
+📦 Total Unidades
+
+🧾 Ticket Promedio
+
+Visualizaciones
+
+Tendencia de ventas por mes
+
+Ventas por categoría de producto
+
+Mapa geográfico por ciudad
+
+Segmentadores por año y mes (panel desplegable)
+
+Botón de reset para volver al estado inicial
+
+Todo el contenido se presenta en una sola página, siguiendo una narrativa clara:
+visión general → análisis → conclusión.
+
+🧠 Conclusiones de negocio
+
+Entre 2013 y 2017, Austral Retail Group muestra una evolución positiva en ventas, con picos destacados en distintos períodos.
+La categoría Office Supplies lidera los ingresos, mientras que Technology presenta oportunidades de crecimiento.
+Se recomienda reforzar estrategias comerciales en las ciudades con mayor volumen de ventas y potenciar categorías con menor participación.
+
+🎓 Contexto académico
+
+Trabajo realizado como parte del Laboratorio / Proyecto Final de Power BI
+Informatorio – Provincia del Chaco
